@@ -229,6 +229,48 @@ https://github.com/infogautammanish/House-Price-Prediction-ML
 
 ---
 
+
+# 📊 My Data Science Workflow
+              📥 DATA
+                │
+                ▼
+       ┌──────────────────┐
+       │  Data Collection │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │  Data Cleaning   │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │       EDA        │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │Feature Engineering│
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │ Machine Learning │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │ Model Evaluation │
+       └────────┬─────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │    Deployment    │
+       └────────┬─────────┘
+                │
+                ▼
+          📊 INSIGHTS
+
 # 🧠 Areas of Interest
 
 ```text
