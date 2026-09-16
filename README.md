@@ -1,950 +1,452 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+# 👋 Hi, I'm Manish Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Scientist;Data+Analyst;Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Cloud+%26+IoT+Explorer;Building+Data-Driven+Solutions;Turning+Ideas+into+Real-World+Products" />
-</p>
+### 📊 Data Analyst | 🤖 Data Scientist | 🧠 Machine Learning Enthusiast
 
-<p align="center">
-  <a href="mailto:infogautammanish@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+I am a **Data Analyst and Machine Learning enthusiast** with a strong foundation in **Python, SQL, Statistics, Exploratory Data Analysis, Data Visualization, Machine Learning, and Business Intelligence**.
 
-  <a href="https://www.linkedin.com/in/manish-kumar-49117b23a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+I enjoy transforming raw and complex datasets into **meaningful insights, predictive models, dashboards, and data-driven solutions**.
 
-  <a href="https://github.com/infogautammanish">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=infogautammanish&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
-</p>
+🎓 **MCA Graduate**
+📍 Nagpur, India
+💼 Open to **Data Analyst | Data Scientist | Machine Learning | AI/ML** opportunities
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Machine Learning Engineer, Data Scientist, Data Analyst, and Full-Stack Developer** with a strong interest in Artificial Intelligence, Data Analytics, Software Development, Cloud Computing, IoT, and modern application development.
-
-I enjoy transforming ideas into practical, scalable, and data-driven technology solutions.
-
-My experience spans the complete technology lifecycle:
-
-**Idea → Research → Data Collection → Development → Data Processing → Machine Learning → APIs → Testing → Deployment → Monitoring → Optimization**
-
-### 🚀 What I Do
-
-- 🤖 Build **Machine Learning and AI solutions**
-- 📊 Perform **Data Analysis, EDA, Statistical Analysis and Predictive Analytics**
-- 🧠 Explore **Generative AI, LLMs, NLP, LangChain and AI applications**
-- 💻 Develop **Full-Stack Web Applications**
-- 📱 Build applications using **Flutter and modern web technologies**
-- 🔌 Develop and experiment with **IoT-based solutions**
-- ☁️ Work with **AWS, Google Cloud and cloud-based applications**
-- 🗄️ Work with **SQL and NoSQL databases**
-- 🔗 Build **REST APIs and backend services**
-- 📈 Create **Power BI, Plotly and interactive dashboards**
-- 🚀 Deploy applications using **Streamlit, Flask, FastAPI and cloud platforms**
-- 🔄 Work with **data pipelines, ETL and automation**
-- 🌐 Explore **Computer Networking, Network Security and infrastructure**
-- 🏗️ Build **SaaS-oriented applications and digital products**
-- 👨‍💼 Founder of **ANMIGON**, delivering real-world technology projects
-
----
-
-# 🏢 Founder & Technology Projects
-
-## 🚀 ANMIGON
-
-I founded **ANMIGON**, a technology-focused initiative where I work on building and delivering real-world software, data, AI, web, and technology solutions.
-
-### 📌 Project Delivery Experience
-
-- 🚀 **150+ projects delivered**
-- 🌍 Delivered technology solutions for clients/projects across different requirements
-- 🇪🇬 Successfully delivered a project for a client/project based in **Egypt**
-- 🔄 Currently continuing to work on and deliver new projects
-- 💻 Experience across **Web Development, Software Development, Data Analytics, AI/ML and Automation**
-- 🧩 Worked on projects involving different technologies, business requirements and deployment environments
-- 🤝 Experience understanding client requirements and converting them into working technical solutions
-- 🛠️ Involved in development, debugging, deployment, optimization and project delivery
-
-### 💡 Areas Covered Through ANMIGON
-
-**Web Development • Software Development • Data Analytics • Machine Learning • AI • APIs • SaaS • Automation • Databases • Cloud • IoT • Networking**
-
-> Building technology is not only about writing code.  
-> It's about understanding a problem, designing a solution, building it, deploying it, and making it useful.
+* 📊 Passionate about **Data Analytics, Machine Learning, and Data Science**
+* 🐍 Strong working knowledge of **Python for Data Analysis & Machine Learning**
+* 🗄️ Comfortable working with **SQL and relational datasets**
+* 🔎 Experienced in **EDA, data cleaning, preprocessing, and feature engineering**
+* 📈 Interested in building **interactive dashboards and analytical reports**
+* 🤖 Interested in **supervised and unsupervised machine learning**
+* 🧠 Exploring **Generative AI, LLMs, RAG, and AI Agents**
+* 📚 Continuously improving my skills through real-world projects
+* 💡 Interested in solving business and analytical problems using data
 
 ---
 
 # 🛠️ Technical Skills
 
-## 🐍 Programming Languages
+### 🐍 Programming & Data Analysis
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-`Python` `Java` `C` `C++` `JavaScript` `SQL`
-
----
-
-# 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### Machine Learning
-
-`Scikit-learn` `TensorFlow` `PyTorch` `XGBoost`
-
-- Supervised Learning
-- Classification
-- Regression
-- Clustering
-- Feature Engineering
-- Feature Selection
-- Model Evaluation
-- Cross Validation
-- Hyperparameter Tuning
-- Ensemble Learning
-- Random Forest
-- Gradient Boosting
-- Predictive Analytics
-- Time Series Forecasting
-- Anomaly Detection
+**Python • SQL • Pandas • NumPy • Data Manipulation • Data Cleaning • Data Transformation**
 
 ---
 
-# 🧠 Generative AI & LLM
+### 📊 Data Analytics & Visualization
 
-I'm actively exploring modern **Generative AI and Large Language Model applications**.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Technologies
-
-`LLMs` `LangChain` `Prompt Engineering` `RAG` `Vector Databases` `NLP` `AI Agents`
-
-### Areas of Interest
-
-- Large Language Models (LLMs)
-- Generative AI Applications
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- NLP
-- AI Chatbots
-- Document Q&A Systems
-- AI-powered Search
-- Embeddings
-- Vector Search
-- AI Agents
-- LLM Application Development
+**Power BI • Excel • Tableau • Matplotlib • Seaborn • Data Visualization • KPI Analysis • Dashboard Development**
 
 ---
 
-# 🌐 Web Development
+### 🤖 Machine Learning
 
-## Frontend
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,sass" />
-</p>
+**Machine Learning • Supervised Learning • Unsupervised Learning • Regression • Classification • Clustering**
 
-`HTML5` `CSS3` `JavaScript` `React` `Next.js` `SASS`
+**Algorithms:**
 
-### Frontend Development
-
-- Responsive Web Design
-- Component-Based Development
-- Modern UI Development
-- API Integration
-- State Management
-- Web Performance Optimization
-- Cross-Browser Compatibility
+* Linear Regression
+* Logistic Regression
+* Decision Trees
+* Random Forest
+* Gradient Boosting
+* K-Nearest Neighbors
+* K-Means Clustering
 
 ---
 
-# ⚙️ Backend Development
+### 🔬 Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,spring" />
-</p>
-
-`Node.js` `Express.js` `FastAPI` `Flask` `Django` `Spring` `Spring Boot`
-
-### Backend Skills
-
-- REST API Development
-- API Integration
-- Authentication & Authorization
-- CRUD Applications
-- Backend Architecture
-- Database Integration
-- Microservices Fundamentals
-- API Testing
-- Server-Side Development
-
----
-
-# 📱 Mobile App Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
-</p>
-
-`Flutter` `Dart` `React Native`
-
-### Mobile Development
-
-- Cross-Platform Application Development
-- Flutter UI Development
-- REST API Integration
-- Firebase Integration
-- Authentication
-- Mobile App Architecture
+* Exploratory Data Analysis (EDA)
+* Data Cleaning
+* Missing Value Handling
+* Outlier Detection
+* Data Preprocessing
+* Feature Engineering
+* Feature Selection
+* Encoding & Scaling
+* Model Training
+* Model Evaluation
+* Cross-Validation
+* Hyperparameter Tuning
+* Confusion Matrix
+* Precision
+* Recall
+* F1-Score
+* ROC-AUC
+* Regression Metrics
+* Statistical Analysis
 
 ---
 
-# 🗄️ Databases
+### 🧠 Natural Language Processing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase" />
-</p>
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge\&logo=python\&logoColor=white)
 
-### SQL Databases
-
-`MySQL` `PostgreSQL` `SQLite` `Oracle`
-
-### NoSQL / Cloud Databases
-
-`MongoDB` `Firebase`
-
-### Database Skills
-
-- Database Design
-- SQL Queries
-- Joins
-- Aggregations
-- Subqueries
-- Stored Procedures
-- Data Modeling
-- CRUD Operations
-- Query Optimization
-- Database Integration
+**NLP • Text Classification • Tokenization • Stopword Removal • Stemming • Lemmatization • TF-IDF**
 
 ---
 
-# 📊 Data Analytics & Business Intelligence
+### 🧬 Generative AI & LLM
 
-### Tools
+**Currently Exploring:**
 
-`SQL` `Power BI` `DAX` `Tableau` `Excel`
-
-### Skills
-
-- Data Cleaning
-- Exploratory Data Analysis
-- KPI Analysis
-- Business Intelligence
-- Data Modeling
-- Data Transformation
-- Dashboard Development
-- Business Reporting
-- Statistical Analysis
-- Data Storytelling
-- Predictive Analytics
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* FAISS
+* Embeddings
+* Semantic Search
+* AI Agents
+* Agentic AI
 
 ---
 
-# 📈 Data Science & Visualization
+### 🗃️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `SciPy`
-
-### Visualization
-
-- Interactive Dashboards
-- Statistical Visualization
-- Business Dashboards
-- Time-Series Visualization
-- Data Storytelling
-- Interactive Charts
+**SQL • PostgreSQL • Data Extraction • Data Filtering • Joins • Aggregations • Subqueries • CTEs • Window Functions**
 
 ---
 
-# ☁️ Cloud Computing
+### 🧰 Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify" />
-</p>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-### Cloud Technologies
-
-`AWS` `Google Cloud Platform (GCP)` `Firebase`
-
-### Cloud Areas
-
-- Cloud Application Deployment
-- Cloud Storage
-- Cloud Databases
-- Serverless Fundamentals
-- Application Hosting
-- API Deployment
-- Cloud-Based Data Processing
-- Cloud Infrastructure Fundamentals
+**Jupyter Notebook • Google Colab • Git • GitHub • Streamlit • VS Code**
 
 ---
 
-# 🔄 Data Engineering & Pipelines
+# 📌 Featured Projects
 
-### Technologies
+## 📊 Sales Forecasting & Demand Intelligence System
 
-`Python` `SQL` `Pandas` `Apache Spark` `Apache Kafka`
+A machine learning and analytics project focused on understanding historical sales patterns and generating demand forecasts.
 
-### Skills
+**Key Areas:**
 
-- Data Pipelines
-- ETL / ELT
-- Data Extraction
-- Data Transformation
-- Data Loading
-- Data Cleaning Pipelines
-- Batch Processing
-- Stream Processing Fundamentals
-- Data Automation
-- Workflow Automation
-- Data Integration
+* Data preprocessing
+* Exploratory Data Analysis
+* Time-series analysis
+* Sales trend analysis
+* Product segmentation
+* Anomaly detection
+* Forecasting
+* Interactive dashboard
+* Model evaluation
 
----
-
-# 🚀 DevOps, Deployment & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,nginx,linux" />
-</p>
-
-`Git` `GitHub` `Docker` `Kubernetes` `Nginx`
-
-### Deployment Platforms
-
-`Streamlit` `Vercel` `Netlify`
-
-### DevOps Skills
-
-- Application Deployment
-- Containerization
-- Docker
-- CI/CD Fundamentals
-- Version Control
-- Linux
-- Server Configuration
-- Reverse Proxy
-- Application Monitoring
+**Tech Stack:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Streamlit`
 
 ---
 
-# 🖥️ Operating Systems & Shell
+## 🏢 IBM HR Analytics & Employee Attrition Prediction
 
-### Operating Systems
+Machine learning project analyzing employee data to identify patterns associated with employee attrition.
 
-`Windows` `Linux`
+**Key Areas:**
 
-### Command Line & Automation
+* Data cleaning
+* Exploratory Data Analysis
+* Feature preprocessing
+* Feature engineering
+* Classification
+* Model comparison
+* Class imbalance handling
+* Confusion matrix
+* Precision / Recall / F1-score
 
-`Windows Terminal` `PowerShell` `Bash`
+**Models:**
+`Logistic Regression` `Random Forest` `Gradient Boosting`
 
-### Skills
-
-- Windows Administration
-- Linux Fundamentals
-- Command-Line Tools
-- PowerShell Automation
-- Shell Scripting
-- Environment Configuration
-- Application Troubleshooting
-
----
-
-# 🌐 Networking & Network Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,cisco" />
-</p>
-
-### Networking Skills
-
-- TCP/IP
-- OSI Model
-- IPv4 / IPv6
-- Subnetting
-- Routing
-- Switching
-- VLAN
-- DHCP
-- DNS
-- NAT
-- HTTP / HTTPS
-- FTP / SFTP
-- Network Troubleshooting
-- Network Security Fundamentals
-- Firewall Fundamentals
-- Wireless Networking
-- Client-Server Architecture
-
-### Networking Tools & Technologies
-
-`Cisco` `Cisco Packet Tracer` `TCP/IP` `DNS` `DHCP` `VLAN`
-
----
-
-# 🔌 IoT & Embedded Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-### IoT Technologies
-
-`Arduino` `Raspberry Pi` `ESP32` `Sensors` `MQTT`
-
-### IoT Skills
-
-- IoT Architecture
-- Sensor Integration
-- Embedded Programming Fundamentals
-- Device Communication
-- MQTT
-- Real-Time Data Collection
-- IoT Data Processing
-- Cloud-IoT Integration
-- Smart Device Applications
-- Automation Systems
-- Raspberry Pi Projects
-- Arduino Projects
-
----
-
-# ☕ Java Development
-
-### Java Technologies
-
-`Java` `Spring` `Spring Boot`
-
-### Java Skills
-
-- Core Java
-- Object-Oriented Programming
-- Collections
-- Exception Handling
-- Multithreading Fundamentals
-- REST APIs
-- Spring Framework
-- Spring Boot
-- Backend Application Development
-- Database Connectivity
-
----
-
-# 🔗 API Development
-
-### Technologies
-
-`FastAPI` `Flask` `Django` `Node.js` `Express.js` `Spring Boot`
-
-### API Skills
-
-- REST APIs
-- CRUD APIs
-- Authentication
-- API Integration
-- JSON
-- HTTP Methods
-- API Testing
-- Backend Services
-- Third-Party API Integration
-
----
-
-# 📦 SaaS & Product Development
-
-I'm interested in developing scalable **SaaS and software products**.
-
-### SaaS Areas
-
-- Multi-User Applications
-- Authentication Systems
-- Subscription-Based Architecture
-- Dashboard Applications
-- REST API Architecture
-- Cloud Deployment
-- Database-Driven Applications
-- Admin Panels
-- Analytics Platforms
-- AI-powered SaaS Applications
-
----
-
-# 🔥 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,jupyter,postman,npm" />
-</p>
-
-`Git` `GitHub` `GitLab` `VS Code` `Jupyter` `Google Colab`
-
-`Docker` `Kubernetes` `NPM` `Postman`
-
----
-
-# 🚀 Featured Projects
-
-## 📊 IBM HR Analytics Employee
-
-Employee analytics project focused on understanding workforce patterns,
-employee attrition and HR-related insights.
-
-### Technologies
-
-`Python` `Pandas` `NumPy` `Data Analysis` `Visualization`
-
-🔗 **Repository:**  
-https://github.com/infogautammanish/IBM-HR-Analytics-Employee
-
----
-
-## 📈 Sales Forecasting & Demand Intelligence Dashboard
-
-An end-to-end sales forecasting and demand intelligence platform designed
-to analyze historical sales patterns, forecast future demand and identify
-business trends.
-
-### Key Features
-
-- 📊 Exploratory Data Analysis
-- 📈 Sales Forecasting
-- 🤖 Machine Learning
-- 🚨 Anomaly Detection
-- 📦 Demand Analysis
-- 📊 Interactive Dashboard
-- 📉 Forecast Visualization
-- 📈 Business Intelligence
-
-### Technologies
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Prophet` `Plotly` `Streamlit`
-
-🔗 **Repository:**  
-https://github.com/infogautammanish/sales-forecasting-dashboard
-
----
-
-## 📈 NVIDIA Stocks Data 2025
-
-Data analysis project focused on NVIDIA stock market data and historical
-market trends.
-
-### Technologies
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Data Analysis`
-
-🔗 **Repository:**  
-https://github.com/infogautammanish/NVIDIA-Stocks-Data-2025
+**Tech Stack:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
 ---
 
 ## 💳 Credit Card Fraud Detection
 
-Machine learning project for identifying potentially fraudulent credit card
-transactions using classification techniques.
+Machine learning project focused on identifying potentially fraudulent transactions using classification techniques.
 
-### Technologies
+**Key Areas:**
 
-`Python` `Pandas` `Scikit-learn` `Machine Learning`
+* Data preprocessing
+* Exploratory analysis
+* Class imbalance
+* Feature analysis
+* Classification
+* Model evaluation
+* Precision & Recall
+* Confusion Matrix
 
-🔗 **Repository:**  
-https://github.com/infogautammanish/credit-card-fraud-detection
-
----
-
-## 📉 Telco Customer Churn Prediction
-
-Machine learning project focused on predicting customer churn and identifying
-patterns associated with customer retention.
-
-### Technologies
-
-`Python` `Pandas` `Scikit-learn` `Classification` `Data Analysis`
-
-🔗 **Repository:**  
-https://github.com/infogautammanish/Telco-Customer-Churn
+**Tech Stack:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
 ---
 
-## 🏠 House Price Prediction ML
+## 📞 Telco Customer Churn Prediction
 
-Supervised machine learning project for predicting house prices using
-regression algorithms.
+A machine learning project designed to analyze customer behavior and predict customer churn.
 
-### Technologies
+**Key Areas:**
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Regression`
+* Customer behavior analysis
+* Data cleaning
+* Feature engineering
+* Exploratory Data Analysis
+* Classification
+* Model evaluation
+* Interactive Streamlit application
 
-🔗 **Repository:**  
-https://github.com/infogautammanish/House-Price-Prediction-ML
-
----
-
-# 💼 Professional & Project Experience
-
-## 🚀 Founder & Technology Developer | ANMIGON
-
-**ANMIGON | Technology & Software Projects**
-
-- Founded and developed a technology-focused initiative for delivering
-  software and digital solutions.
-- Successfully delivered **150+ projects** across different technical
-  requirements.
-- Delivered a project for a **client/project based in Egypt**, gaining
-  international project exposure.
-- Currently continuing to work on active projects and new client
-  requirements.
-- Worked across **Web Development, Software Development, AI/ML,
-  Data Analytics, APIs, Databases, Cloud and Automation**.
-- Converted business requirements into technical solutions and
-  production-ready applications.
-- Managed project development, debugging, testing, deployment and
-  optimization.
-- Worked with different technology stacks depending on project requirements.
-- Developed practical experience in client communication, requirement
-  analysis, problem solving and project delivery.
-- Focused on building reliable, scalable and user-oriented solutions.
-
-### Core Areas
-
-`Web Development` `AI/ML` `Data Analytics` `Software Development`
-
-`APIs` `Databases` `Cloud` `IoT` `Automation` `SaaS`
+**Tech Stack:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
 ---
 
-# 📊 My Data Science Workflow
+## 🏠 House Price Prediction
+
+A regression-based machine learning project for predicting house prices using property-related features.
+
+**Key Areas:**
+
+* Data preprocessing
+* Missing value handling
+* Exploratory Data Analysis
+* Feature engineering
+* Regression modeling
+* Feature importance
+* Model evaluation
+
+**Tech Stack:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+---
+
+## 📈 NVIDIA Stock Data Analysis
+
+Data analysis and visualization project focused on NVIDIA stock market data.
+
+**Key Areas:**
+
+* Historical stock analysis
+* Moving averages
+* Trend analysis
+* Interactive visualization
+* Candlestick charts
+* Market data exploration
+
+**Tech Stack:**
+`Python` `Pandas` `Plotly` `Streamlit` `yfinance`
+
+---
+
+## 📱 Instagram Account Classification
+
+Machine learning project for classifying Instagram accounts using profile-based features.
+
+**Key Areas:**
+
+* Data cleaning
+* Exploratory Data Analysis
+* Correlation analysis
+* Feature engineering
+* Classification
+* Random Forest
+* Confusion Matrix
+* Precision / Recall / F1-score
+
+**Tech Stack:**
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter Notebook`
+
+---
+
+## 🤖 RAG Document Chatbot
+
+A Retrieval-Augmented Generation application that allows users to upload documents and ask questions based on their content.
+
+**Key Components:**
+
+* PDF document processing
+* Text extraction
+* Document chunking
+* Embeddings
+* Vector search
+* FAISS
+* Semantic retrieval
+* LLM-based response generation
+* Source-aware answers
+
+**Tech Stack:**
+`Python` `LangChain` `FAISS` `LLM` `Streamlit`
+
+---
+
+# 📚 Areas of Interest
 
 ```text
-                         📥 RAW DATA
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Data Collection │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │  Data Cleaning  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │      EDA        │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │Feature Engineering│
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ Machine Learning│
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │Model Evaluation │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ API / Application│
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    Deployment   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                       📊 INSIGHTS
-````
-
----
-
-# 🧠 Areas of Interest
-
-```text
-Artificial Intelligence
-│
-├── Machine Learning
-├── Deep Learning
-├── Natural Language Processing
-├── Generative AI
-├── Large Language Models
-├── RAG
-├── LangChain
-├── AI Agents
-└── Predictive Analytics
-
-
-Machine Learning
-│
-├── Supervised Learning
-├── Classification
-├── Regression
-├── Clustering
-├── Feature Engineering
-├── Model Evaluation
-├── Hyperparameter Tuning
-├── Time Series Forecasting
-└── Anomaly Detection
-
-
-Data Science
-│
-├── Python
-├── Pandas
-├── NumPy
-├── SciPy
-├── Exploratory Data Analysis
-├── Statistical Analysis
-└── Data Visualization
-
-
 Data Analytics
-│
-├── SQL
-├── Power BI
-├── DAX
-├── Tableau
-├── Excel
-├── KPI Analytics
-└── Business Intelligence
-
-
-Software Development
-│
-├── Java
-├── C
-├── C++
-├── Python
-├── JavaScript
-├── Spring Boot
-├── Node.js
-├── Flask
-├── FastAPI
-└── REST APIs
-
-
-Web Development
-│
-├── HTML
-├── CSS
-├── JavaScript
-├── React
-├── Next.js
-├── Node.js
-├── Express.js
-└── API Integration
-
-
-Mobile Development
-│
-├── Flutter
-├── Dart
-├── React Native
-└── Firebase
-
-
-Cloud & DevOps
-│
-├── AWS
-├── Google Cloud
-├── Docker
-├── Kubernetes
-├── Git
-├── GitHub
-└── CI/CD
-
-
-Databases
-│
-├── MySQL
-├── PostgreSQL
-├── MongoDB
-├── SQLite
-├── Oracle
-└── Firebase
-
-
-IoT
-│
-├── Arduino
-├── Raspberry Pi
-├── ESP32
-├── Sensors
-├── MQTT
-└── Cloud IoT
-
-
-Networking
-│
-├── TCP/IP
-├── OSI Model
-├── Routing
-├── Switching
-├── VLAN
-├── DHCP
-├── DNS
-├── NAT
-└── Network Security Fundamentals
-
-
-Currently Exploring
-│
-├── Generative AI
-├── LLM Applications
-├── RAG Systems
-├── AI Agents
-├── MLOps
-├── Cloud Architecture
-└── Scalable SaaS Applications
+     ↓
+Data Cleaning & EDA
+     ↓
+Statistics & Visualization
+     ↓
+Machine Learning
+     ↓
+Predictive Analytics
+     ↓
+Generative AI
+     ↓
+LLMs & RAG
 ```
 
----
+### Currently focusing on:
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infogautammanish&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infogautammanish&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infogautammanish&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/infogautammanish/infogautammanish/output/github-contribution-grid-snake.svg" />
-</p>
+* 📊 Advanced SQL
+* 📈 Power BI & DAX
+* 🐍 Python for Data Science
+* 🤖 Machine Learning
+* 📉 Predictive Analytics
+* 🧠 NLP
+* ✨ Generative AI
+* 🔎 RAG Applications
+* 🤖 AI Agents
 
 ---
 
 # 🎓 Education
 
-### 🎓 Master of Computer Applications (MCA)
+### Master of Computer Applications (MCA)
 
 **Greater Noida Institute of Technology (GNIOT)**
 2024 – 2026
 
-### 🎓 Bachelor of Computer Applications (BCA)
+### Bachelor of Computer Applications (BCA)
 
 **Patliputra University**
-2019 – 2024
+2021 – 2024
 
 ---
 
-# 📜 Certifications
+# 📜 Certifications & Training
 
-* 🟦 **Microsoft Power BI Data Analyst** — Microsoft
-* 🤖 **Machine Learning** — DeepLearning.AI / Coursera
-* 📊 **Google Data Analytics** — Google
-* 🐍 **Python** — NPTEL
-* 🟩 **SAP ABAP Development for HANA**
+* Microsoft Power BI Data Analyst
+* Google Data Analytics
+* Machine Learning – DeepLearning.AI / Coursera
+* Python – NPTEL
+* CCNA Training – Infosys Springboard
+* Additional training in Data Analytics, Machine Learning & AI
 
 ---
 
-# 🌟 What I'm Building
+# 💼 Experience
 
-I'm currently focused on building and delivering practical technology
-solutions through **ANMIGON**, while continuously expanding my expertise
-in AI, Machine Learning, Data Science, Full-Stack Development, Cloud,
-IoT and Generative AI.
+### Data Science Intern | Xylofy AI
 
-### Current Focus
+**June 2026 | Bengaluru**
 
-🚀 AI & Machine Learning
-🧠 Generative AI & LLMs
-📊 Data Science & Analytics
-💻 Full-Stack Development
-☁️ Cloud Computing
-🔌 IoT Solutions
-🌐 Networking
-🏗️ SaaS & Product Development
-🔄 Data Engineering & Automation
+Worked on practical AI and Data Science assignments involving:
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Machine Learning
+* Regression
+* Feature analysis
+* Data visualization
+* Python-based data science workflows
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=infogautammanish&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infogautammanish&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=infogautammanish&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=infogautammanish&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Career Goal
+
+I am looking for opportunities where I can work on real-world problems involving:
+
+**Data → Insights → Models → Decisions**
+
+Interested in:
+
+* 📊 Data Analyst
+* 📈 Business/Data Analytics
+* 🤖 Data Scientist
+* 🧠 Machine Learning
+* 🔬 AI/ML
+* 🧪 Research & Applied ML
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manish-kumar-49117b23a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:infogautammanish@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/manish-kumar-49117b23a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/infogautammanish">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
-<p align="center">
+---
 
-### 💡 Build. Analyze. Learn. Deploy. Repeat.
+<div align="center">
 
-</p>
-```
+### 💡 Turning Data into Insights and Insights into Intelligent Solutions.
 
-### 🔥 One important improvement I made
+**Thanks for visiting my profile! 🚀**
 
-Your **ANMIGON experience should be much more visible** than it was in the previous README. The combination of:
-
-**Founder + 150+ projects + international project exposure (Egypt) + currently active**
-
-is much more valuable to a recruiter than simply showing another 20 technology badges.
-
-I also separated your skills into:
-
-* 🤖 AI / ML
-* 🧠 Generative AI / LLM
-* 📊 Data Science / Analytics
-* 💻 Java / C / C++ / Python
-* 🌐 Web Development
-* ⚙️ Backend / Spring Boot / Flask / FastAPI
-* 📱 Flutter / Mobile
-* 🗄️ SQL / MongoDB / PostgreSQL / Oracle
-* ☁️ AWS / GCP / Firebase
-* 🔄 Data Pipelines / Spark / Kafka
-* 🚀 Docker / Kubernetes / Git
-* 🔌 IoT / Arduino / Raspberry Pi / ESP32
-* 🌐 Networking / Cisco
-* 🏗️ SaaS / Product Development
+</div>
