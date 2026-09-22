@@ -2,97 +2,119 @@
 
 ### 📊 Data Analyst | 🤖 Data Scientist | 🧠 Machine Learning Enthusiast
 
-I am a **Data Analyst and Machine Learning enthusiast** with a strong foundation in **Python, SQL, Statistics, Exploratory Data Analysis, Data Visualization, Machine Learning, and Business Intelligence**.
+I am a **Data Analyst and Machine Learning enthusiast** with a strong foundation in **Python, SQL, Data Analytics, Statistics, Machine Learning, Data Visualization, and Business Intelligence**.
 
-I enjoy transforming raw and complex datasets into **meaningful insights, predictive models, dashboards, and data-driven solutions**.
+I enjoy working with data to discover patterns, generate insights, build predictive models, and create data-driven solutions.
 
 🎓 **MCA Graduate**
-📍 Nagpur, India
+📍 Greater Noida, India
 💼 Open to **Data Analyst | Data Scientist | Machine Learning | AI/ML** opportunities
 
 ---
 
 ## 🚀 About Me
 
-* 📊 Passionate about **Data Analytics, Machine Learning, and Data Science**
-* 🐍 Strong working knowledge of **Python for Data Analysis & Machine Learning**
-* 🗄️ Comfortable working with **SQL and relational datasets**
+* 📊 Passionate about **Data Analytics, Data Science, and Machine Learning**
+* 🐍 Strong interest in **Python for Data Analysis and Machine Learning**
+* 🗄️ Working with **SQL and relational datasets**
 * 🔎 Experienced in **EDA, data cleaning, preprocessing, and feature engineering**
-* 📈 Interested in building **interactive dashboards and analytical reports**
-* 🤖 Interested in **supervised and unsupervised machine learning**
-* 🧠 Exploring **Generative AI, LLMs, RAG, and AI Agents**
-* 📚 Continuously improving my skills through real-world projects
-* 💡 Interested in solving business and analytical problems using data
+* 📈 Interested in **Power BI, dashboards, KPI analysis, and business insights**
+* 🤖 Interested in **predictive modeling and machine learning**
+* 🧠 Exploring **NLP, Generative AI, LLMs, RAG, and AI Agents**
+* 💻 Building practical projects to solve real-world data problems
+* 📚 Continuously learning and improving through hands-on projects
 
 ---
 
 # 🛠️ Technical Skills
 
-### 🐍 Programming & Data Analysis
+## 🐍 Programming & Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-**Python • SQL • Pandas • NumPy • Data Manipulation • Data Cleaning • Data Transformation**
+**Python • SQL • Pandas • NumPy • Data Cleaning • Data Manipulation • Data Transformation**
 
 ---
 
-### 📊 Data Analytics & Visualization
+## 📊 Data Analytics & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Power BI • Excel • Tableau • Matplotlib • Seaborn • Data Visualization • KPI Analysis • Dashboard Development**
+**Power BI • Excel • Tableau • Matplotlib • Seaborn • KPI Analysis • Data Visualization • Dashboard Development**
 
 ---
 
-### 🤖 Machine Learning
+## 🤖 Machine Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-**Machine Learning • Supervised Learning • Unsupervised Learning • Regression • Classification • Clustering**
+### Machine Learning Concepts
 
-**Algorithms:**
+* Supervised Learning
+* Unsupervised Learning
+* Regression
+* Classification
+* Clustering
+* Feature Engineering
+* Feature Selection
+* Model Evaluation
+* Cross-Validation
+* Hyperparameter Tuning
+
+### Algorithms
 
 * Linear Regression
 * Logistic Regression
-* Decision Trees
+* Decision Tree
 * Random Forest
 * Gradient Boosting
 * K-Nearest Neighbors
 * K-Means Clustering
 
----
+### Evaluation
 
-### 🔬 Data Science
-
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Missing Value Handling
-* Outlier Detection
-* Data Preprocessing
-* Feature Engineering
-* Feature Selection
-* Encoding & Scaling
-* Model Training
-* Model Evaluation
-* Cross-Validation
-* Hyperparameter Tuning
-* Confusion Matrix
+* Accuracy
 * Precision
 * Recall
 * F1-Score
 * ROC-AUC
-* Regression Metrics
-* Statistical Analysis
+* Confusion Matrix
+* MAE
+* MSE
+* RMSE
+* R² Score
 
 ---
 
-### 🧠 Natural Language Processing
+# 🔬 Data Science
+
+* Exploratory Data Analysis (EDA)
+* Data Cleaning
+* Missing Value Handling
+* Duplicate Removal
+* Outlier Detection
+* Data Preprocessing
+* Feature Engineering
+* Feature Selection
+* Encoding
+* Feature Scaling
+* Statistical Analysis
+* Data Visualization
+* Model Training
+* Model Evaluation
+* Cross-Validation
+* Predictive Analytics
+
+---
+
+# 🧠 Natural Language Processing
 
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -100,9 +122,9 @@ I enjoy transforming raw and complex datasets into **meaningful insights, predic
 
 ---
 
-### 🧬 Generative AI & LLM
+# ✨ Generative AI & LLM
 
-**Currently Exploring:**
+### Currently Exploring
 
 * Generative AI
 * Large Language Models (LLMs)
@@ -111,22 +133,38 @@ I enjoy transforming raw and complex datasets into **meaningful insights, predic
 * FAISS
 * Embeddings
 * Semantic Search
+* Prompt Engineering
 * AI Agents
 * Agentic AI
 
 ---
 
-### 🗃️ Databases
+# 🗃️ Databases & SQL
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-**SQL • PostgreSQL • Data Extraction • Data Filtering • Joins • Aggregations • Subqueries • CTEs • Window Functions**
+### SQL Skills
+
+* SELECT / WHERE
+* GROUP BY / HAVING
+* ORDER BY
+* Aggregate Functions
+* JOINs
+* Subqueries
+* CTEs
+* CASE Statements
+* Window Functions
+* Data Filtering
+* Data Aggregation
+* Data Validation
+* Data Extraction
 
 ---
 
-### 🧰 Tools & Platforms
+# 🧰 Tools & Technologies
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
@@ -139,9 +177,9 @@ I enjoy transforming raw and complex datasets into **meaningful insights, predic
 
 ## 📊 Sales Forecasting & Demand Intelligence System
 
-A machine learning and analytics project focused on understanding historical sales patterns and generating demand forecasts.
+A data science project focused on analyzing historical sales patterns, identifying trends and anomalies, and generating demand forecasts.
 
-**Key Areas:**
+### Key Areas
 
 * Data preprocessing
 * Exploratory Data Analysis
@@ -150,8 +188,8 @@ A machine learning and analytics project focused on understanding historical sal
 * Product segmentation
 * Anomaly detection
 * Forecasting
-* Interactive dashboard
 * Model evaluation
+* Interactive dashboard
 
 **Tech Stack:**
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Streamlit`
@@ -160,21 +198,22 @@ A machine learning and analytics project focused on understanding historical sal
 
 ## 🏢 IBM HR Analytics & Employee Attrition Prediction
 
-Machine learning project analyzing employee data to identify patterns associated with employee attrition.
+Machine learning project focused on analyzing employee data and identifying patterns related to employee attrition.
 
-**Key Areas:**
+### Key Areas
 
 * Data cleaning
 * Exploratory Data Analysis
 * Feature preprocessing
 * Feature engineering
 * Classification
-* Model comparison
 * Class imbalance handling
-* Confusion matrix
-* Precision / Recall / F1-score
+* Model comparison
+* Confusion Matrix
+* Precision / Recall / F1-Score
 
-**Models:**
+### Models
+
 `Logistic Regression` `Random Forest` `Gradient Boosting`
 
 **Tech Stack:**
@@ -186,15 +225,15 @@ Machine learning project analyzing employee data to identify patterns associated
 
 Machine learning project focused on identifying potentially fraudulent transactions using classification techniques.
 
-**Key Areas:**
+### Key Areas
 
 * Data preprocessing
 * Exploratory analysis
-* Class imbalance
+* Class imbalance analysis
 * Feature analysis
 * Classification
 * Model evaluation
-* Precision & Recall
+* Precision and Recall
 * Confusion Matrix
 
 **Tech Stack:**
@@ -204,14 +243,14 @@ Machine learning project focused on identifying potentially fraudulent transacti
 
 ## 📞 Telco Customer Churn Prediction
 
-A machine learning project designed to analyze customer behavior and predict customer churn.
+Machine learning project for analyzing customer behavior and predicting customer churn.
 
-**Key Areas:**
+### Key Areas
 
 * Customer behavior analysis
 * Data cleaning
-* Feature engineering
 * Exploratory Data Analysis
+* Feature engineering
 * Classification
 * Model evaluation
 * Interactive Streamlit application
@@ -223,9 +262,9 @@ A machine learning project designed to analyze customer behavior and predict cus
 
 ## 🏠 House Price Prediction
 
-A regression-based machine learning project for predicting house prices using property-related features.
+Regression-based machine learning project for predicting house prices using property-related features.
 
-**Key Areas:**
+### Key Areas
 
 * Data preprocessing
 * Missing value handling
@@ -244,7 +283,7 @@ A regression-based machine learning project for predicting house prices using pr
 
 Data analysis and visualization project focused on NVIDIA stock market data.
 
-**Key Areas:**
+### Key Areas
 
 * Historical stock analysis
 * Moving averages
@@ -262,7 +301,7 @@ Data analysis and visualization project focused on NVIDIA stock market data.
 
 Machine learning project for classifying Instagram accounts using profile-based features.
 
-**Key Areas:**
+### Key Areas
 
 * Data cleaning
 * Exploratory Data Analysis
@@ -271,7 +310,7 @@ Machine learning project for classifying Instagram accounts using profile-based 
 * Classification
 * Random Forest
 * Confusion Matrix
-* Precision / Recall / F1-score
+* Precision / Recall / F1-Score
 
 **Tech Stack:**
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter Notebook`
@@ -282,7 +321,7 @@ Machine learning project for classifying Instagram accounts using profile-based 
 
 A Retrieval-Augmented Generation application that allows users to upload documents and ask questions based on their content.
 
-**Key Components:**
+### Key Components
 
 * PDF document processing
 * Text extraction
@@ -302,43 +341,70 @@ A Retrieval-Augmented Generation application that allows users to upload documen
 # 📚 Areas of Interest
 
 ```text
-Data Analytics
-     ↓
-Data Cleaning & EDA
-     ↓
-Statistics & Visualization
-     ↓
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Exploratory Data Analysis
+      ↓
+Data Visualization
+      ↓
+Statistical Analysis
+      ↓
+Feature Engineering
+      ↓
 Machine Learning
-     ↓
+      ↓
 Predictive Analytics
-     ↓
+      ↓
 Generative AI
-     ↓
+      ↓
 LLMs & RAG
 ```
 
-### Currently focusing on:
+---
 
-* 📊 Advanced SQL
-* 📈 Power BI & DAX
-* 🐍 Python for Data Science
-* 🤖 Machine Learning
-* 📉 Predictive Analytics
-* 🧠 NLP
-* ✨ Generative AI
-* 🔎 RAG Applications
-* 🤖 AI Agents
+# 🎯 Currently Learning
+
+### 📊 Data Analytics
+
+* Advanced SQL
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Business Intelligence
+* KPI & Business Metrics
+
+### 🤖 Machine Learning
+
+* Advanced Feature Engineering
+* Model Optimization
+* Ensemble Learning
+* Cross-Validation
+* Hyperparameter Tuning
+* Predictive Analytics
+
+### 🧠 AI
+
+* NLP
+* Generative AI
+* LLMs
+* RAG
+* Vector Databases
+* AI Agents
+* Agentic AI
 
 ---
 
 # 🎓 Education
 
-### Master of Computer Applications (MCA)
+### 🎓 Master of Computer Applications (MCA)
 
 **Greater Noida Institute of Technology (GNIOT)**
 2024 – 2026
 
-### Bachelor of Computer Applications (BCA)
+### 🎓 Bachelor of Computer Applications (BCA)
 
 **Patliputra University**
 2021 – 2024
@@ -352,33 +418,34 @@ LLMs & RAG
 * Machine Learning – DeepLearning.AI / Coursera
 * Python – NPTEL
 * CCNA Training – Infosys Springboard
-* Additional training in Data Analytics, Machine Learning & AI
+* Data Analytics & Machine Learning Training
 
 ---
 
-# 💼 Experience
+# 💼 Internship Experience
 
-### Data Science Intern | Xylofy AI
+## Data Science Intern | Xylofy AI
 
 **June 2026 | Bengaluru**
 
-Worked on practical AI and Data Science assignments involving:
+Worked on practical Data Science and Machine Learning assignments involving:
 
 * Data preprocessing
+* Data cleaning
 * Exploratory Data Analysis
-* Machine Learning
+* Feature engineering
+* Machine learning
 * Regression
-* Feature analysis
 * Data visualization
 * Python-based data science workflows
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=infogautammanish&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=infogautammanish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infogautammanish&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -386,7 +453,7 @@ Worked on practical AI and Data Science assignments involving:
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Current GitHub Streak
 
 <div align="center">
 
@@ -396,7 +463,7 @@ Worked on practical AI and Data Science assignments involving:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Activity
 
 <div align="center">
 
@@ -406,20 +473,48 @@ Worked on practical AI and Data Science assignments involving:
 
 ---
 
-# 🎯 Career Goal
+# 🏆 GitHub Achievements
 
-I am looking for opportunities where I can work on real-world problems involving:
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=infogautammanish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 📌 My GitHub Focus
+
+```text
+📊 Data Analytics
+🤖 Machine Learning
+🧠 Data Science
+📈 Predictive Analytics
+📉 Business Intelligence
+🐍 Python
+🗄️ SQL
+📊 Power BI
+🔬 Exploratory Data Analysis
+✨ Generative AI
+🔎 RAG
+```
+
+---
+
+# 🎯 Career Goals
+
+I am interested in opportunities where I can work on real-world problems involving:
 
 **Data → Insights → Models → Decisions**
 
-Interested in:
+### Open to
 
 * 📊 Data Analyst
-* 📈 Business/Data Analytics
+* 📈 Data Analytics
 * 🤖 Data Scientist
 * 🧠 Machine Learning
 * 🔬 AI/ML
-* 🧪 Research & Applied ML
+* 🧪 Research & Applied Machine Learning
 
 ---
 
@@ -445,7 +540,7 @@ Interested in:
 
 <div align="center">
 
-### 💡 Turning Data into Insights and Insights into Intelligent Solutions.
+### 📊 Turning Data into Insights. Building Models. Solving Problems.
 
 **Thanks for visiting my profile! 🚀**
 
